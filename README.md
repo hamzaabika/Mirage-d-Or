@@ -72,4 +72,3 @@ A well‑organized folder structure including:
 **Hamza Abika**
 Developer & UI/UX Enthusiast
 
-If you want to add more sections (features, screenshots, deployment, etc.), let me know!
